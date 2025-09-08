@@ -4,7 +4,7 @@ JUEGO DEL CAZADOR DE TESOROS - VERSIÓN MÚLTIPLES TESOROS
 Juego educativo desarrollado en Python con Pygame para enseñar conceptos básicos de programación.
 NUEVA CARACTERÍSTICA: Múltiples tesoros y sistema de puntuación
 
-Autor: [Tu nombre]
+Autor: John Faber Flórez Vasco
 Versión: 2.0
 Propósito: Demostrar el uso de listas, bucles, funciones y condicionales
 """
